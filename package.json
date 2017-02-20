@@ -1,0 +1,17 @@
+{
+  "name": "yapsody-api-app",
+  "version": "0.2.0",
+  "description": "Yapsody Api's",
+  "main": "app.js",
+  "scripts": {
+    
+  },
+  "author": "Yapsody",
+  "license": "Yapsody India Pvt. Ltd.",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+   
+  }
+}
